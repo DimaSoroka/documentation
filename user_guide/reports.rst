@@ -11,7 +11,7 @@ Creating a Report
 -----------------
 If you feel a need to systematize the information available for the instances of a specific Entity defined in the 
 system, you can always do so with a report.
-To create a report, go to *Reports and Segments -->  Manage Custom Reports* and click :kbd:`Create Report` button.
+To create a report, go to *Reports and Segments -->  Manage Custom Reports* and click :guilabel:`Create Report` button.
 
 *Create Report* page will appear.
 
@@ -122,7 +122,7 @@ For each column there are:
 *Changing Column Fields*
 ^^^^^^^^^^^^^^^^^^^^^^^^     
     
-Once you have specified the settings for a column element click :kbd:`Add` button, and the field you have defined will 
+Once you have specified the settings for a column element click :guilabel:`Add` button, and the field you have defined will 
 appear in the "COLUMN" grid.
 
 Now you can: 
@@ -150,7 +150,7 @@ For the sake of example we have created a very simple report of one field. It wi
    - Function: None
    - Sorting: Desc
  
-Click :kbd:`Add` button to add the settings into the *Columns* grid. Click :kbd:`Save and Close` to save the Report in 
+Click :guilabel:`Add` button to add the settings into the *Columns* grid. Click :guilabel:`Save and Close` to save the Report in 
 the system and view it.
 
 You would see something of the kind:
@@ -160,9 +160,9 @@ You would see something of the kind:
 There are 75 Opportunity instances, an the values defined in the *Budget Amount* field of each and every of them will be
 displayed in the Report.
 
-Click :kbd:`Edit` to return to the Report settings. Let's see, how the report changes, if we apply different Functions 
+Click :guilabel:`Edit` to return to the Report settings. Let's see, how the report changes, if we apply different Functions 
 to the *Opportunity Budget* field. Click |IcEdit| icon and change the column settings. 
-(Don't forget to click :kbd:`Save`).
+(Don't forget to click :guilabel:`Save`).
 
 **Function = Count**
 
